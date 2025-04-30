@@ -65,6 +65,8 @@ Access the visualizer online here:
 - Nitya Bhavsar (IIT2023140)  
 - [Kartik Sharma (IIT2023143)](https://github.com/kartiksharma1227)  
 - Ayushi Songara (IIT2023144)  
+- Kartik Sharma (IIT2023143)  
+- [Ayushi Songara (IIT2023144)] (https://github.com/aashi-336)  
 - Priyam J Chakrabarthy (IIT2023147)  
 - Yash Kamthan (IIT2023149)
 
