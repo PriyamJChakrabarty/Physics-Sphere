@@ -9,7 +9,7 @@ An interactive browser-based simulation tool for learning classical physics usin
 ## 🌍 Live Deployment
 
 Access the visualizer online here:  
-🔗 [https://priyamjchakrabarty.github.io/Physics-Sphere/](https://priyamjchakrabarty.github.io/PhysicsConceptVisualizer/)
+🔗 [https://priyamjchakrabarty.github.io/Physics-Sphere/](https://priyamjchakrabarty.github.io/Physics-Sphere)
 
 ## 🚀 Features
 
