@@ -1,4 +1,4 @@
-# Physics Sphere: Physics Concept Visualizer
+# Phyzzle: Physics Concept Visualizer
 
 An interactive browser-based simulation tool for learning classical physics using 3D animations. Built using Three.js and WebGL.
 
@@ -61,7 +61,7 @@ Access the visualizer online here:
 
 ## 👥 Contributors
 
-- Ishita (IIT2023132)   -> Relative Motion
+- [Ishita (IIT2023132)](https://github.com/Ishu0112)  
 - Nitya Bhavsar (IIT2023140)  
 - [Kartik Sharma (IIT2023143)](https://github.com/kartiksharma1227)  
 - Ayushi Songara (IIT2023144)  
